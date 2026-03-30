@@ -1,0 +1,3 @@
+Install the required modules using the same Python interpreter that runs main.py
+
+python -m pip install opencv-contrib-python numpy pillow pandas
